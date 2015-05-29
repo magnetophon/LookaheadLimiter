@@ -1,5 +1,7 @@
-LookaheadLimiter
+This project is renamed to LazyLimiter:
 ================
+# https://magnetophon.github.io/LazyLimiter/
+
 
 A clean yet fast lookahead limiter written in Faust.
 
